@@ -11,7 +11,7 @@ This is a simple AR application. It's working with 'stones' image target. It sho
 -There is a sculpture rotating around itself in the garden.
 -There is an animated butterfly flying in the garden.
 
-The stones image target is ![Alt text](Augmented-Reality/images/image_target.JPG?raw=true "Title")
+[The image target of app](https://github.com/furkanyildiz/Augmented-Reality/blob/master/images/image_target.JPG)
 
 ![alt text](https://github.com/furkanyildiz/Augmented-Reality/blob/master/images/1.png)
 
